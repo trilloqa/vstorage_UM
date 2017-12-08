@@ -1,0 +1,2 @@
+shared/static/css/page.css
+shared/static/css/default.css
